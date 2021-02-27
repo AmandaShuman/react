@@ -1,0 +1,24 @@
+{
+  "name": "3-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ReactWeek1Assignment.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaShuman/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaShuman/react/issues"
+  },
+  "homepage": "https://github.com/AmandaShuman/react#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
